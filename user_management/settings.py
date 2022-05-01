@@ -46,7 +46,7 @@ MIDDLEWARE = [
 
 ]
 
-ROOT_URLCONF = 'user_management.urls'
+ROOT_URLCONF = 'ticket.urls'
 
 TEMPLATES = [
     {
